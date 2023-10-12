@@ -1,0 +1,45 @@
+body{
+  font-family: 'lato', sans-serif;
+}
+h1,h2,h3,h4,h5,h6{
+  font-family: 'Inter', sans-serif;
+}
+.fish{
+  width: 30px;
+  height: 24px;
+}
+.bg-rblue{
+  background-color: #234E70;
+}
+.bg-pyellow{
+  background-color: #FBF8BE;
+}
+.bg-teal{
+  background-color: teal;
+}
+.mw-50{
+  max-width: 50%;
+}
+.landing{
+  position: relative;
+}
+.min-vh-50{
+  min-height: 50vh;
+}
+
+.text-rblue{
+  color: #234E70;
+}
+
+.progressh{
+  height: 5px;
+}
+.progressw50{
+  width: 50%;
+}
+.progressw1{
+  width: 1%;
+}
+.border-curve{
+  border-radius: 0.5rem;
+}
